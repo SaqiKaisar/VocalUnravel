@@ -21,7 +21,7 @@
 
 # Training
 Execute this command
-  - `python3.6 train.py --dataset_dir /PATH/TO/MUSDB18HQ `
+  - `python train.py --dataset_dir /PATH/TO/MUSDB18HQ `
 where the path to MUSDB18HQ dataset needs to be specified, which contains the train and test subfolders.
 
 
